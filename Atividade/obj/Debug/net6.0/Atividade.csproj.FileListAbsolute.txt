@@ -1,0 +1,15 @@
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/bin/Debug/net6.0/Atividade
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/bin/Debug/net6.0/Atividade.deps.json
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/bin/Debug/net6.0/Atividade.runtimeconfig.json
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/bin/Debug/net6.0/Atividade.dll
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/bin/Debug/net6.0/ref/Atividade.dll
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/bin/Debug/net6.0/Atividade.pdb
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/obj/Debug/net6.0/Atividade.csproj.AssemblyReference.cache
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/obj/Debug/net6.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfoInputs.cache
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfo.cs
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/obj/Debug/net6.0/Atividade.csproj.CoreCompileInputs.cache
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/obj/Debug/net6.0/Atividade.dll
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/obj/Debug/net6.0/ref/Atividade.dll
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/obj/Debug/net6.0/Atividade.pdb
+/home/araracansada/Documents/projects-vscode/back-end/c#-senai/07a-SP2-Atividade1/Atividade/obj/Debug/net6.0/Atividade.genruntimeconfig.cache
